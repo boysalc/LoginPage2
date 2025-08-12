@@ -4,10 +4,10 @@
     "username": "User123",
     "password": "Pass123",
     "expiresAt": "2025-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
-    "id": "f11467b39b10a6ec",
+    "id": "d9a43190cf3b98f9",
     "username": "User123",
     "password": "Pass123",
     "expiresAt": "2025-12-31",
