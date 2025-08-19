@@ -76,6 +76,13 @@
     "expiresAt": "2035-12-31",
     "allowOffline": true
   },
+   {
+    "id": "bc1d9170fb5e16d8",
+    "username": "User123",
+    "password": "Pass123",
+    "expiresAt": "2035-12-31",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
